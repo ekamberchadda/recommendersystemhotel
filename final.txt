@@ -1,0 +1,6 @@
+
+ITC breakfast 4.25 staff 5.625 service 7.0 location 3.25 pool 1.0 room 5.75
+HYATT breakfast 2.5 staff 5.0 service 1.0 location -0.875 pool 3.125 room 0.375
+LALIT breakfast 2.75 staff 6.5 service 4.25 location 0.375 pool 0.75 room 3.75
+TAJ breakfast 5.25 staff 8.625 service 2.625 location 2.75 pool 6.75 room 6.125
+OBEROI breakfast 7.375 staff 7.625 service 8.125 location 1.875 pool 4.75 room 11.125

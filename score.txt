@@ -1,0 +1,167 @@
+
+ITC breakfast 0.75 staff 0.625 room -0.75
+ITC breakfast 0.0 service -0.375 room -0.375
+ITC 0
+ITC service 1.375 pool 1.5
+ITC breakfast 0.0 room 0.0
+ITC breakfast 0.125 staff 0.25 service -0.125 room -0.125
+ITC breakfast 0.875 service 0.625 pool 0.0
+ITC staff -0.375 service -0.5
+ITC room 0.875
+ITC breakfast 0.875 staff 0
+ITC staff 0.625 service 1.25 room 1.25
+ITC staff 0.0 service 0.625
+ITC breakfast -0.125 staff 0.125 location -0.75
+ITC staff 1.125
+ITC 0
+ITC 0
+ITC staff 0.0 service 1.0
+ITC staff 0.125
+ITC 0
+ITC staff 1.375 service 0.5 room 0.625
+ITC staff -0.125 location 1.5 pool -0.5 room -0.125
+ITC service 0.0
+ITC breakfast -0.5 location -0.125 room 0.875
+ITC 0
+ITC breakfast 0.875 staff 0.875 service 1.25 room 0.875
+ITC 0
+ITC breakfast 0.875 location 0.875 room 0.875
+ITC location 0.875
+ITC staff 0.75 room 0.75
+ITC staff 0.25 service 0.875 location 0.875 room 0.5
+ITC service 0.0
+ITC breakfast 0.5 service 0.5 location 0.0 room 0.5
+ITC 0
+HYATT staff 0.25 room -0.5
+HYATT breakfast -0.25 staff -0.125 pool 0.0 room -0.75
+HYATT breakfast 0.25 staff -0.375 location 0.0 pool 0.0 room 0.0
+HYATT breakfast 0.625 service 0.75 pool 0.375 room 0.0
+HYATT location 0.0
+HYATT 0
+HYATT breakfast -0.75 location -0.75 pool 0.75 room 1.25
+HYATT 0
+HYATT service 0.375
+HYATT 0
+HYATT breakfast -0.125 staff 0.25 room 0.0
+HYATT room -0.375
+HYATT breakfast 1.75 service 0.375 pool 0.875 room 0.0
+HYATT breakfast 0.25 staff 0.875 room -0.625
+HYATT 0
+HYATT staff -0.625
+HYATT service -1.0 room 0.0
+HYATT staff 0.875 room -0.375
+HYATT pool -0.25 room 0.0
+HYATT breakfast 0.625 service 0.5 room 0.5
+HYATT breakfast -0.625 staff -0.125 service -0.125 location 0.75
+HYATT 0
+HYATT staff 1.125 location -0.25 pool -0.25 room 0.5
+HYATT 0
+HYATT room -0.5
+HYATT staff -0.125 service -0.25 pool 0.875 room 0.875
+HYATT 0
+HYATT service 0.25
+HYATT breakfast 0.75 staff 1.0 service 0.875 pool 0.875 room 2.0
+HYATT service -0.375 location 0.125 pool 0.125 room 0.0
+HYATT service -0.375 room -0.375
+HYATT staff 0.75 room 0.0
+HYATT 0
+HYATT location -0.5 room 0.0
+HYATT location -0.25 pool -0.25 room -0.25
+HYATT staff 1.25
+HYATT room 0.0
+HYATT 0
+HYATT room -1.0
+HYATT 0
+LALIT staff 2.25
+LALIT staff -0.5 service 0.0
+LALIT staff 0.375 service 0.0 room 0.625
+LALIT breakfast -0.75 staff 0.75 service 0.125 room -0.375
+LALIT staff -0.125
+LALIT breakfast 0.875 staff -0.625 service 0.875
+LALIT breakfast 0.0 staff -0.125 service -0.125 location -0.375 room -0.625
+LALIT breakfast 0.875 staff 0.625 service -0.625 room 0.0
+LALIT staff 0.25 service 0.875
+LALIT staff 0.375 room -0.125
+LALIT staff -0.125 room -0.5
+LALIT breakfast 0.125 service 0.625 room 0.625
+LALIT staff 0.0 service 0.0 location 0.0 pool 0.875 room 0.0
+LALIT staff 0.625 location 0.625 room -0.125
+LALIT breakfast 0.25 service 0.625 room 0.0
+LALIT staff -0.5 service 0.25 location -0.125
+LALIT breakfast -0.125 service -0.125 location -0.125 pool -0.125 room 0.125
+LALIT 0
+LALIT breakfast 0.875 staff 0.75 room 0.75
+LALIT breakfast 0.25 staff 0.375 service 0.25 room 1.125
+LALIT staff 0.875 room 0.875
+LALIT room 1.125
+LALIT breakfast 0.25 staff 0.375
+LALIT staff 0.25 service 0.25 location -0.125 room -0.75
+LALIT service 0.25 room 0.625
+LALIT staff 0.625 service 0.0 location 1.5 room 0.625
+LALIT room -0.125
+LALIT staff -0.875 service 0.0
+LALIT staff -0.25 service 0.875 room -0.25
+LALIT staff 0.25 service 0.125 room 0.0
+LALIT 0
+LALIT breakfast 0.125 staff 0.875 location -1.0 room 0.125
+LALIT 0
+TAJ breakfast 0.875 service 1.5 room 0.0
+TAJ service -0.125
+TAJ breakfast 1.0 staff 2.125 service 0.0 location 2.125 pool 2.125 room -0.25
+TAJ staff 0.0 service 0.0
+TAJ staff 0.75 pool 0.625
+TAJ staff 0.375 service 0.375
+TAJ breakfast -0.5 room -0.25
+TAJ breakfast 0.125 staff 0.875 service 0.5
+TAJ service -0.125 location -0.875 pool 1.125 room 0.75
+TAJ room 0.0
+TAJ service -0.25 location 0.375 room -0.25
+TAJ service 0.625 room 0.625
+TAJ breakfast -0.625 service -0.375 room 1.125
+TAJ staff 0.375 service 0.375 location 0.125 pool 1.375 room 0.375
+TAJ breakfast 0.75 room 0.0
+TAJ breakfast 1.0 staff 0.25 location 1.25 room 0.625
+TAJ room 0.0
+TAJ staff 1.375 service 0.0
+TAJ service 0.0 pool 0.75 room 0
+TAJ staff -0.125 room 0.25
+TAJ breakfast 0.5 service -0.125 room 0.625
+TAJ breakfast -0.125 staff 0.5 pool 0.75 room 0.875
+TAJ staff 0.25 room 0.125
+TAJ breakfast -0.75 service 0.125 location -0.25 room 0.625
+TAJ breakfast -0.125 service 0.125 room 0.0
+TAJ staff -0.375
+TAJ breakfast 0.125 staff 2.0 room 0.625
+TAJ breakfast 0.25 staff 0.25 room 0.25
+TAJ breakfast 1.875 staff 0.0
+TAJ breakfast 0.875 staff 0.0 room 0.0
+OBEROI staff 1.125 service 0.25 room 0.75
+OBEROI staff -0.375 service 0.625
+OBEROI breakfast 0.625 staff 0.25
+OBEROI staff 0.25 service 0.125
+OBEROI breakfast 0.625 staff -0.125 service -0.125 pool 0.0
+OBEROI breakfast 0.875 service 0.75 location -0.875 pool -0.875 room 0.875
+OBEROI service 0.625 room 0.875
+OBEROI location 0.625 pool 0.75
+OBEROI breakfast 1.125 staff 0.5 service 0.5 pool 1.5
+OBEROI service 0.0 room 0.0
+OBEROI service -0.5
+OBEROI breakfast 0.875 staff -0.125 pool 0.625 room 0.875
+OBEROI room 1.125
+OBEROI breakfast 0.875 staff 1.0 service 0.0 room 0.25
+OBEROI staff 1.0 service 1.0 pool 0.625 room 0.5
+OBEROI staff -0.25 service 1.5 room 1.5
+OBEROI breakfast 0.625 staff 1.625
+OBEROI staff 1.125 service 0.25 room 0.75
+OBEROI breakfast 0.625 service 0.875 location 1.5
+OBEROI staff 1.875 room 0.875
+OBEROI staff 0.0 service 0.875
+OBEROI breakfast 0.875 staff -0.125 pool 0.625 room 0.875
+OBEROI staff -0.125 location 0.0 pool 0.875 room 0.0
+OBEROI breakfast 0.25 staff -0.125
+OBEROI service 0.5 location 0.625
+OBEROI service 0.25 room 0.875
+OBEROI breakfast -0.125 staff 0.0 service 0.625 room 0.0
+OBEROI 0
+OBEROI staff -0.125 pool 0.625 room 0.625
+OBEROI breakfast 0.125 staff 0.25 room  0.375
